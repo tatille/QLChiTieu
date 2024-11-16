@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nhanh\\OneDrive\\Desktop\\test\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nhanh\\OneDrive\\Desktop\\test\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\Expense Tracker\\Controllers\\CategoryController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Expense Tracker\\Controllers\\CategoryController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nhanh\\OneDrive\\Desktop\\test\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\Expense Tracker\\Models\\Transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Expense Tracker\\Models\\Transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nhanh\\OneDrive\\Desktop\\test\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\Expense Tracker\\Models\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Expense Tracker\\Models\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nhanh\\OneDrive\\Desktop\\test\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\Expense Tracker\\Models\\ErrorViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Expense Tracker\\Models\\ErrorViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nhanh\\OneDrive\\Desktop\\test\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\Expense Tracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Expense Tracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nhanh\\OneDrive\\Desktop\\test\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\Expense Tracker\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Expense Tracker\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\nhanh\\OneDrive\\Desktop\\test\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\Expense Tracker\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Expense Tracker\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\nhanh\\OneDrive\\Desktop\\test\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\Expense Tracker\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Expense Tracker\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T14:29:07.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\nhanh\\OneDrive\\Desktop\\test\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\Expense Tracker\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "Expense Tracker\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\nhanh\\OneDrive\\Desktop\\test\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\Expense Tracker\\Models\\Transaction.cs",
+              "RelativeToolTip": "Expense Tracker\\Models\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T14:29:02.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\nhanh\\OneDrive\\Desktop\\test\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\Expense Tracker\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Expense Tracker\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\nhanh\\OneDrive\\Desktop\\test\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\Expense Tracker\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Expense Tracker\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T14:28:58.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\nhanh\\OneDrive\\Desktop\\test\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\Expense Tracker\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Expense Tracker\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\nhanh\\OneDrive\\Desktop\\test\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\Expense Tracker\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Expense Tracker\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T14:28:51.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nhanh\\OneDrive\\Desktop\\test\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\Expense Tracker\\appsettings.json",
+              "RelativeDocumentMoniker": "Expense Tracker\\appsettings.json",
+              "ToolTip": "C:\\Users\\nhanh\\OneDrive\\Desktop\\test\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\Expense Tracker\\appsettings.json",
+              "RelativeToolTip": "Expense Tracker\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-26T14:28:19.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nhanh\\OneDrive\\Desktop\\test\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\Expense Tracker\\Program.cs",
+              "RelativeDocumentMoniker": "Expense Tracker\\Program.cs",
+              "ToolTip": "C:\\Users\\nhanh\\OneDrive\\Desktop\\test\\Expense-Tracker-App-in-Asp.Net-Core-MVC-main\\Expense Tracker\\Program.cs",
+              "RelativeToolTip": "Expense Tracker\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T14:28:13.087Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
